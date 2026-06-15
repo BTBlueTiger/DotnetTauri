@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dotnet-tauri</string>
+    <string name="main_activity_title">dotnet-tauri</string>
+</resources>
